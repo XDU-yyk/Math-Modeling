@@ -10,3 +10,19 @@ __pycache__/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Temporary analysis scripts
+_read_docx.py
+analyze_s11.py
+check_columns.py
+copy_docx.py
+extract_docx.py
+extract_to_json.py
+read_all_data.py
+problem-copy.docx
+problem2.docx
+problem.docx
+problem_text_output.txt
+problem_text.json
+data_content.json
+s11_output.txt
