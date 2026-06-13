@@ -48,7 +48,7 @@ When working with DeepSeek:
 ## Reference Navigation
 
 - Use `references/workflow-blueprint.md` for the full staged workflow.
-- Use `references/skill-outline.md` for the skill architecture and resource plan.
+- Use `references/workflow-pipeline.md` for the two-mode operation guide (Codex+DeepSeek or DeepSeek-only).
 - Use `references/model-selection-guide.md` for mapping problem types to model families.
 - Use `references/paper-writing-guide.md` for paper structure and writing rules.
 - Use `references/quality-gates.md` for consistency checks.
