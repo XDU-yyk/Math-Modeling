@@ -1,0 +1,3 @@
+display_name: Math Modeling Workflow
+short_description: Stage and review mathematical modeling competition work from problem analysis through paper checks.
+default_prompt: Use the math-modeling workflow to analyze this problem, select a modeling route, define artifacts, and coordinate implementation.
